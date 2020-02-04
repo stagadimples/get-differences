@@ -6,7 +6,7 @@ This application is designed to summarise differences between 2 files of similar
 ### Steps for Generating Report:
 * Clone repository, and download contents to a location on your PC.
 * Replace contents of data folder with the 2 files--current and previous--which are to be compared.
-* Files stored in the folder must labeled according to the date they refer to, using the format yyyy-mm-dd (for example, 2020-12-29).
+* Files stored in the **data** folder must labeled according to the date they refer to, using the format **yyyy-mm-dd** (for example, 2020-12-29).
 * This report is generated from the file named **tracking-worksheet.xlsm**.
 * To generate the report, simply click on the **Get Differences** button. The sheets **New** and **Cancelled** tabs are automatically populated accordingly.
 
