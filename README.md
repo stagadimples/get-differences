@@ -4,10 +4,11 @@
 This application is designed to summarise differences between 2 files of similar data structures. The current implementation checks for recency by the label of the file. Files must be labeled in date order (yyyy-mm-dd) in order to ensure accurate results.
 
 ### Steps for Generating Report:
-* Create a folder and save the 2 files--current and previous--in this folder. Name of folder is irrelevant.
+* Clone repository, and download contents to a location on your PC.
+* Replace contents of data folder with the 2 files--current and previous--which are to be compared.
 * Files stored in the folder must labeled according to the date they refer to, using the format yyyy-mm-dd (for example, 2020-12-29).
-* Ideally, this tracking worksheet and the folder containing the 2 files may be placed in the same folder. This is for convenience, and not a requirement.
-* To generate the report, simply click on the "Generate Differences" button. The sheets "New" and "Cancelled" will be populated accordingly.
+* This report is generated from the file named **tracking-worksheet.xlsm**.
+* To generate the report, simply click on the **Get Differences** button. The sheets **New** and **Cancelled** tabs are automatically populated accordingly.
 
 ### Note:
 It's not important to clear the sheets before running a new report, as this is done at application runtime.
