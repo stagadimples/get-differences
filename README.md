@@ -8,7 +8,7 @@ This application is designed to summarise differences between 2 files of similar
 * Replace contents of **data** folder with the 2 files--current and previous--which are to be compared.
 * Files stored in the **data** folder must labeled according to the date they refer to, using the format **yyyy-mm-dd** (for example, 2020-12-29).
 * This report is generated from the file named **tracking-worksheet.xlsm**.
-* To generate the report, simply click on the **Get Differences** button, and select **data** folder. The sheets **New** and **Cancelled** tabs are automatically populated accordingly.
+* To generate the report, simply click on the **Get Differences** button, and select **data** folder. The sheets **New** and **Cancelled** are automatically populated accordingly.
 
 ### Additional Notes:
 * You may need to **enable macros** when prompted to do so.
