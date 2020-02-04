@@ -10,8 +10,9 @@ This application is designed to summarise differences between 2 files of similar
 * This report is generated from the file named **tracking-worksheet.xlsm**.
 * To generate the report, simply click on the **Get Differences** button. The sheets **New** and **Cancelled** tabs are automatically populated accordingly.
 
-### Note:
-It's not important to clear the sheets before running a new report, as this is done at application runtime.
+### Additional Notes:
+* You may need to **enable macros** when prompted to do so.
+* It's not important to clear the sheets before running a new report, as this is done at application runtime.
 
 
 ### Caution!
